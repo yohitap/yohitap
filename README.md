@@ -2,14 +2,19 @@
 
 🎓 **Computer Science Engineering | Cybersecurity | AI**
 
-I’m a CS undergrad who enjoys **building Full-Stack Applications, solving problems with Python, exploring Cyber Security and AI**. I like turning ideas into practical projects — from gardening platforms to security tools and real-world management systems.
+I’m a Computer Science Engineering student passionate about building things, solving problems, and understanding how technology works behind the scenes.
 
-💻 **Full-Stack Web Development**
-🐍 **Python + DSA | C | C++ | Java**
-🔐 **Cybersecurity**
-🖥️ **TryHackMe and HackTheBox**
-🎨 **UI/UX & Figma**
-🚀 **Always building, learning & experimenting**
+I’m currently exploring the intersection of Full-Stack Development, Artificial Intelligence, and Cybersecurity. I enjoy taking an idea from a simple concept and turning it into a functional, user-friendly application.
+
+---
+
+💻 Full-Stack Web Development
+🐍 Python + DSA | C | C++ | Java
+🤖 Exploring AI & intelligent applications
+🔐 Cybersecurity | TryHackMe | Hack The Box
+🎨 UI/UX Design & Figma
+🧠 Problem Solving & Continuous Learning
+🚀 Always building, experimenting & improving
 
 ---
 

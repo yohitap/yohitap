@@ -8,13 +8,13 @@ I’m currently exploring the intersection of Full-Stack Development, Artificial
 
 ---
 
-💻 Full-Stack Web Development
-🐍 Python + DSA | C | C++ | Java
-🤖 Exploring AI & intelligent applications
-🔐 Cybersecurity | TryHackMe | Hack The Box
-🎨 UI/UX Design & Figma
-🧠 Problem Solving & Continuous Learning
-🚀 Always building, experimenting & improving
+💻 <b>Full-Stack Web Development</b><br>
+🐍 <b>Python + DSA | C | C++ | Java</b><br>
+🤖 <b>Exploring AI & Intelligent Applications</b><br>
+🔐 <b>Cybersecurity | TryHackMe | Hack The Box</b><br>
+🎨 <b>UI/UX Design & Figma</b><br>
+🧠 <b>Problem Solving & Continuous Learning</b><br>
+🚀 <b>Always Building, Experimenting & Improving</b>
 
 ---
 

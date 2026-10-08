@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Yohita
+# Hey, I'm Yohita
 
 🎓 **Computer Science Engineering | Cybersecurity | AI**
 

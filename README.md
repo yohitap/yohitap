@@ -14,7 +14,7 @@ I’m currently exploring the intersection of Full-Stack Development, Artificial
 🔐 <b>Cybersecurity | TryHackMe | Hack The Box</b><br>
 🎨 <b>UI/UX Design & Figma</b><br>
 🧠 <b>Problem Solving & Continuous Learning</b><br>
-🚀 <b>Always Building, Experimenting & Improving</b>
+🚀 <b>Always Building, Experimenting and Improving</b>
 
 ---
 
